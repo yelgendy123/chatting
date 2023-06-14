@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53304893400",
+    "project_id": "studentschatting",
+    "storage_bucket": "studentschatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53304893400:android:0ce06964a83e5756f49cad",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53304893400-6kg2nmiflgjblli01cgrp9871ql35h1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wG1b2wzdjaEVlGxDPczm_-jlZKFmUTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53304893400-6kg2nmiflgjblli01cgrp9871ql35h1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
